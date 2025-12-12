@@ -1,0 +1,9 @@
+node_modules/
+.next/
+dist/
+build/
+.expo/
+.DS_Store
+npm-debug.log
+pnpm-lock.yaml
+yarn-error.log
