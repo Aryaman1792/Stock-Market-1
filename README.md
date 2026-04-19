@@ -3,7 +3,7 @@
 A modern and responsive Stock Market Trading App built with **Next.js**.  
 This app allows users to view live stock prices, track their portfolio, and explore detailed stock information with a clean and intuitive interface.
 
----
+----
 
 ## 🚀 Features
 
